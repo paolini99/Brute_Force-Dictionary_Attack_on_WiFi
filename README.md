@@ -1,11 +1,6 @@
 # Brute_Force-Dictionary_Attack_on_WiFi
-# Brute Force - Dictionary Attack on WiFi
 
 ## WPA2
-
-**Practical Tutorial**
-
-**February 11, 2025**
 
 ---
 
